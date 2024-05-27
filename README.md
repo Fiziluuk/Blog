@@ -23,7 +23,7 @@ Features:
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Inside of your Astro project, you'll see the following folders and files:https://subscribe.kyapi.xyz/modules/servers/V2RaySocks/subscribe/clash.php?sid=107057&token=bTewEQiyrnQk
 
 ```text
 ├── public/
